@@ -1,2 +1,1 @@
-# Plantilla-Proyecto21
-Plantilla del proyecto 21 bolas de papel arrugado
+# PROC21_Materia_JS_Repetitiva
