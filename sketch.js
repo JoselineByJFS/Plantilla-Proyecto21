@@ -39,14 +39,14 @@ function draw() {
   
 
   //Pon el paso 5 para que tus ibjetos ground se muestren groundObj, leftSide, rightSide con la función display()
-  drawSprites();
+  
  
 }
 
 /*Realiza aquí la funció KeyPressed para aplicar la fuerza a tu ball como en el paso 2 de tus pistas de tu proyecto.
 Recuerda los parametros para aplicar fuerza son el objeto, la posición del objeto y la fuerza aplicada puede ser solo en x o y o en ambos,
 analiza que en esta ocación quieres que la pelota se mueva a la derecha en y digamos de abajo hacia arriba*/
-function KeyPressed(){
+function keyPressed(){
 
 }
 
